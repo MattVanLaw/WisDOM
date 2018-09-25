@@ -45,4 +45,4 @@ $w(".main").append("<p class='wow'>Wow</p>")
 
 ### #on(newEvent, cb)
 ### #off(oldEvent, cb)
-  Add and remove events on
+  Add and remove events
